@@ -1,0 +1,21 @@
+.botao-evento{
+  
+    
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 120%;
+    border-radius: 8px;
+    border: 1px solid #212121;
+    background-color: #17D9B1;
+    color: #212121;
+    padding: 8px 16px;
+   
+    
+}
+
+.botao-evento:hover{
+
+    opacity: 0.8;
+    cursor: pointer;
+}
+
