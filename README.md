@@ -1,16 +1,32 @@
-# React + Vite
+🎉 TecBoard - Cadastro de Eventos
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicação desenvolvida em React para criar e organizar eventos.
 
-Currently, two official plugins are available:
+🚀 Tecnologias utilizadas
+React
+JavaScript (ES6+)
+JSX
+CSS3
+HTML5
+Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📚 Conceitos praticados
+Componentes reutilizáveis
+Props
+useState
+Manipulação de formulários
+Renderização de listas com map
+Eventos em React
+Organização de componentes
+Estilização com CSS
 
-## React Compiler
+✨ Funcionalidades
+Cadastro de eventos
+Seleção de tema
+Data do evento
+URL da imagem de capa
+Exibição dinâmica dos eventos cadastrados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎯 Objetivo
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Este projeto foi desenvolvido para praticar os principais conceitos do React e fortalecer meus conhecimentos em desenvolvimento Front-End durante minha preparação para a primeira oportunidade como desenvolvedora.
